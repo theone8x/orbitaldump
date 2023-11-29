@@ -301,7 +301,6 @@ def main() -> int:
                             args.timeout,
                         )
                     )
-                )
 
         try:
             while not jobs.empty():
